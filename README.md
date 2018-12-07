@@ -5,6 +5,7 @@
 # Pseudo Code
 
 1-Başla
+
 2- "0123456789ABCDEF" den oluşan değişken tanımla
 
 3- Girilecek tabanı, donusturulecek tabanı ve sayiyi parametre olarak alan fonksiyonu tanımla
